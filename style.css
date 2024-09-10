@@ -1,0 +1,43 @@
+div#box{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+div#resultado{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: darkgray;
+    color: red;
+    height: 50px;
+    margin-top: 10px;
+    width: 40%;
+    border-radius: 30px;
+    overflow: hidden;
+}
+
+h1{
+    text-align: center;
+}
+
+div#inpt{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+div#layout{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin: 9px;
+}
+
+input{
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+}
